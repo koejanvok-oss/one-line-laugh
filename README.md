@@ -6,6 +6,8 @@
 
 One original funny line about the standing desk that was supposed to make me healthier.
 
+The joke follows a classic setup/punchline structure: the setup buys a standing desk to be healthier, and the punchline admits the only change is sitting on a taller chair.
+
 ## Run it
 
 ```sh
